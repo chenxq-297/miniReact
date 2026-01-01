@@ -15,7 +15,8 @@ export default tseslint.config(
 			'prettier/prettier': 'error',
 			'no-case-declarations': 'off',
 			'no-constant-condition': 'off',
-			'@typescript-eslint/ban-ts-comment': 'off'
+			'@typescript-eslint/ban-ts-comment': 'off',
+			'@typescript-eslint/no-explicit-any': 'off'
 		}
 	},
 	{
